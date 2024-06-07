@@ -8,3 +8,4 @@ $config['db']['dbname'] = 'xenforo2';
 
 $config['fullUnicode'] = true;
 $config['debug'] = true;
+$config['enableAddOnArchiveInstaller'] = true;
